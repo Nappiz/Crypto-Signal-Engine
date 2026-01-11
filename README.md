@@ -2,7 +2,7 @@
 
 **An Institutional-Grade Algorithmic Trading System utilizing Regime-Adaptive Random Forest, Dynamic Volatility Thresholding, and Macro-Cycle Context.**
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen) ![Domain](https://img.shields.io/badge/Domain-Quantitative%20Finance-orange) ![Method](https://img.shields.io/badge/Method-Machine%20Learning-red)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue) ![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen) ![Domain](https://img.shields.io/badge/Domain-Quantitative%20Finance-orange) ![Method](https://img.shields.io/badge/Method-Machine%20Learning-red)
 
 ## 📖 Executive Summary
 
